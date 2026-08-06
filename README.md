@@ -1,7 +1,7 @@
 # Stack Buffer Overflow & Local Privilege Escalation Project
 
 **Autori:** Andrea Erpini (2082488), Eleonora Conti (2082947)  
-**Corso:** Sicurezza Informatica — Università degli Studi
+**Corso:** Sicurezza Informatica — Sapienza Università degli Studi 
 
 ---
 
