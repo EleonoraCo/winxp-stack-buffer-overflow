@@ -16,6 +16,7 @@ Il progetto spazia dall'ispezione dei registri della CPU in un ambiente di testi
 ## 📁 Struttura della Repository
 La repository è organizzata nelle seguenti cartelle e sezioni:
 
+```
 .
 ├── README.md                           # Documentazione principale della repository
 ├── LICENSE                             # Licenza MIT
@@ -32,7 +33,7 @@ La repository è organizzata nelle seguenti cartelle e sezioni:
     └── Opzionale/                      # Escalation dei Privilegi a SYSTEM (Parte Opzionale)
         ├── escalation.py               # Script Python con shellcode modificato per KiTrap0D
         └── payload2.bin                # Payload binario per l'esecuzione di vdmallowed.exe
-        
+```
 
 ## 🔍 Guida alla Navigazione e Riferimenti
 Per comprendere a fondo tutti i dettagli tecnici, i problemi riscontrati e le relative soluzioni adottate, fare riferimento alla Relazione presente nella cartella Relazione/.
